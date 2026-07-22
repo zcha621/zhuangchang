@@ -13,7 +13,7 @@ title                    : "Zhuang Chang / Personal Website"
 title_separator          : "-"
 name                     : &name "Zhuang Chang"
 description              : &description "personal description"
-url                      : https://zhuangchang.info # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://zcha621.github.io/zhuangchang/   # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : # "/zhuangchang" 
 repository               : "academicpages/academicpages.github.io"
 
